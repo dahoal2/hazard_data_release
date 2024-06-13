@@ -53,6 +53,7 @@ Last update: Mon 3 June 6:30am:
 | **Drought**|     |        |         |        |        |       |         |
 | SPI    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Drought duration    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
+| Aridity Index    |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | using NHP1.0 (CMIP5) data on wj02 |
 | **Coastal Inundation**|     |        |         |        |        |       |         |
 | extreme water level(canute2)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
 | Regional Sea Level Rise (CMIP6 projection)     |:white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: | :white_circle: |  |
